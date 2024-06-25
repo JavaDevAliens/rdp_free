@@ -6,7 +6,7 @@ on:
         type: string
         description: "Enter Your NGROK TOKEN"
         required: true
-        default: ""
+        default: "2iNZ591KqVWtSj4EJkizeUWOYvt_6NGX1zTENDBByau2MK6co"
 jobs:
   build:
     runs-on: windows-latest
